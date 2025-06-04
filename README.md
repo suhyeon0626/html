@@ -20,7 +20,7 @@ background-size: cover;
 	<p>우리 몸 속 세포의 핵 안에는 염색체가 있고, 염색체는 DNA와 단백질이 결합한 염색질로 구성된다.<br>DNA는 유전정보를 저장하는 이중나선 모양의 물질로 세포의 핵 안에 존재한다.</p>
 	<p>DNA의  기본 단위체는 뉴클레오타이드다.<br>뉴클레오타이드는 인산, 당, 염기가 1:1:1의 비율로 이루어져 있다.<br>이중나선의 뼈대는 당(오탄당)으로 구성되어 있고, 뼈대 안에는 A(아데닌), T(타이민), G(구아닌), C(사이토신)이라 불리는 4가지 염기가 상보적 결합으로 배치되어 있다.
 
-<img src="https://postfiles.pstatic.net/MjAyNTA2MDVfMTc4/MDAxNzQ5MDUwODU1MjY4.PjDcHt22ZtrtUmee0tRFWBS5LC-3pU1-kn4yuqW2fsEg.wn2VriSsS_2_iEiuQyqB3n0GjvOnQIWSdDMKpKzIz8kg.JPEG/KakaoTalk_20250605_002316775.jpg?type=w966" alt="뉴클레오타이드" style="width: 250px; height: auto;">
+<img src="https://camo.githubusercontent.com/b8829c5a4c9801690a8300b53d6f097e08eb97cd60f8de6e26aea9570b9f974e/68747470733a2f2f706f737466696c65732e707374617469632e6e65742f4d6a41794e5441324d4456664d5463342f4d4441784e7a51354d4455774f4455314d6a59342e506a4463487432325a747274556d656530745246574253354c432d337055312d6b6e347975715732667345672e776e325672695373535f325f6945697551797142336e30476a764f6e5149575364444d4b704b7a497a386b672e4a5045472f4b616b616f54616c6b5f32303235303630355f3030323331363737352e6a70673f747970653d77393636" alt="뉴클레오타이드" style="width: 250px; height: auto;">
 <img src="https://postfiles.pstatic.net/MjAyNTA2MDVfNDIg/MDAxNzQ5MDUyNTE2MTQ1.wQ8ZW0FSAtcbyHLkBZZc4g7jLKqra5iTgAhss4UATRYg.e1s6mDdUNsAlW3niRITOGiG_KQRm7X5JomrMr5dJ_IMg.JPEG/KakaoTalk_20250605_005448073.jpg?type=w966" alt="DNA와 RNA" style="width: 300px; height: auto;">
 
 
