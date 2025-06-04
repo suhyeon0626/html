@@ -26,7 +26,7 @@ background-size: cover;
 
 <br>이 때 상보적 결합은 아데닌과 타이민이 이중결합으로, 사이토신과 구아닌이 삼중결합으로 짝을 지은 것을 의미한다.<br>우리 몸의 DNA에는 <b>'종양억제유전자'</b>라는 <b>프로토오코젠</b>이 있다.
 
-<img src="https://postfiles.pstatic.net/MjAyNTA2MDVfMTU1/MDAxNzQ5MDUwODQ1MDA1.r1KrGLqL2Aq10jXVRAWMVYP-Lr6sSgwlMooY2Llqw2kg.Ro7MOxmrvnrdSzNh0n6vPc85eQmoPnGZ3r5ZxZdW3VEg.JPEG/KakaoTalk_20250605_002312585.jpg?type=w966" alt="암 예방 유전자"  style="width: 500px; height: auto;">
+<img src="https://camo.githubusercontent.com/a68d8d4eae14f2dc997a8b10b43b5fd47e3aaa9d4958b81cbc624d9b91b166f1/68747470733a2f2f706f737466696c65732e707374617469632e6e65742f4d6a41794e5441324d4456664d5455312f4d4441784e7a51354d4455774f4451314d4441312e72314b72474c714c32417131306a58565241574d5659502d4c7236735367776c4d6f6f59324c6c7177326b672e526f374d4f786d72766e7264537a4e68306e36765063383565516d6f506e475a3372355a785a6457335645672e4a5045472f4b616b616f54616c6b5f32303235303630355f3030323331323538352e6a70673f747970653d77393636" alt="암 예방 유전자"  style="width: 500px; height: auto;">
 
 
 <br>종양억제유전자는 세포 분열을 억제하는 유전자이고, 프로토오코젠은 우리몸의 상태에 맞게 세포분열을 촉진하는 이로운 유전자이다. <br><b>하지만,</b> 둘 중 하나라도 문제가 생기면 세포가 과다증식되어 종양세포가 형성된다.<br>종양세포가 모여 종양이 되는데, 이 때 종양이 악성이라면 이 악성 종양은 주변 조직을 침범하여 조직을 파괴하고 혈관을 따라 전이된다.</p>
