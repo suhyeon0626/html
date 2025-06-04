@@ -7,7 +7,7 @@
 
 <style>
   body {
-    background-image: url('https://postfiles.pstatic.net/MjAyNTA2MDVfMjQx/MDAxNzQ5MDUyMDE5NjI1.FKr5CXQ7wHzgbBt7Au4Q3U6T0smJKPou08CmXOgvJQgg.8eC3IyNeCR31I2pfSSeNVAh3hAdoiOEz7xD1PXEGE6Ig.JPEG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.jpg?type=w966');
+    background-image: url('https://github.com/suhyeon0626/limk/blob/main/plo.jpg?raw=true');
 background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
